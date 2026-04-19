@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# Database
+vector_db/
